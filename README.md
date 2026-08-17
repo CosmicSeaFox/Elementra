@@ -154,7 +154,7 @@ Elementra will apply the selected elemental environment.
 
 Your notes, files, content, and vault structure remain unchanged.
 
-![Elementra Selector ](style-settings.png)
+![Elementra Selector ](screenshots/style-settings.png)
 
 ---
 
