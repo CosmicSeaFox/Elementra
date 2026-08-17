@@ -512,13 +512,23 @@ select:focus-visible,
    21. SCROLLBAR FOUNDATION
    ============================================================================ */
 
-body {
-
-	scrollbar-color:
-		var(--anatomy-border-strong)
-		var(--anatomy-bg);
+::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
 }
 
+::-webkit-scrollbar-track {
+	background: var(--anatomy-bg);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--anatomy-border-strong);
+	border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: var(--text-muted);
+}
 
 /* ============================================================================
    22. REDUCED MOTION
