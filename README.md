@@ -5,127 +5,183 @@
 ![Dark & Light](https://img.shields.io/badge/Dark%20%26%20Light-Supported-356b7d)
 ![Mobile](https://img.shields.io/badge/Mobile-Supported-356b7d)
 
-**A visual Obsidian theme built around elemental worlds — each with its own colour, atmosphere, visual language, and design system.**
+> **Your vault was never meant to feel ordinary.**
 
-Elementra transforms your vault into an elemental environment where notes, links, properties, tables, code, and graphs become part of a living visual system.
+Elementra is an atmospheric Obsidian theme built around six elemental worlds.
 
-Designed for **students, researchers, developers, writers, designers, creators, knowledge workers, planners, and anyone who wants their Obsidian vault to feel more immersive and personal.**
+Open your vault and you don't simply choose a colour.
+
+You choose a world.
+
+🔥 Fire brings heat and energy.  
+💧 Water moves quietly through the interface.  
+🌪️ Wind keeps everything in motion.  
+🪨 Earth gives the workspace weight and structure.  
+⚡ Lightning brings speed and intensity.  
+🕳️ Void disappears into darkness and space.
+
+Each element has its own colours, artwork, atmosphere, motion, and visual identity while remaining part of the same design system.
+
+> **Six elements. One world. Your vault.**
 
 ---
 
-## Preview
+# Preview
 
 ![Elementra](screenshot.png)
 
-> **One vault. Six elements. A workspace shaped by the power of the elements.**
+---
+
+# What's New
+
+The latest Elementra update expands the original theme into a more complete elemental system.
+
+| Update | Description |
+|---|---|
+| **Living Atmosphere** | Subtle drift, rise, breathe, flicker, gust, and twinkle effects |
+| **Elemental Sigils** | Each element now has its own visual symbol |
+| **Elemental Motion** | Tabs and task completion react differently to each element |
+| **Design Tokens** | New controls for ink, halo, core, ground, masks, and artwork |
+| **Enhanced Tabs** | Elemental sigils, artwork, masking, and motion |
+| **Enhanced Callouts** | Element-aware colours and subtle sigils |
+| **Animated Tasks** | Individual completion effects for each element |
+| **Refined Graph** | Updated elemental colours and atmospheric styling |
+| **Better Tables** | Improved Live Preview and table-editor compatibility |
+| **More Embeds** | Refined image, video, PDF, and file surfaces |
+| **Accessibility** | Focus states, clarity controls, and Still Mode |
+| **Dark & Light** | Dedicated elemental treatment for both modes |
+| **Obsidian Coverage** | Improved styling for Canvas, metadata, menus, CM6, and embeds |
+
+> **Same six elements. A deeper system.**
 
 ---
 
 # The Six Elements
 
-Elementra contains six distinct elemental worlds.
+Elementra currently contains six distinct elemental environments.
 
-They are **not simply colour presets**. Each element has its own visual atmosphere and artwork designed around its elemental identity.
+They are not simple colour presets. Each one has its own visual language and atmosphere.
 
-| Element | Colour | Elemental Character |
+| Element | World | Character |
 |---|---|---|
-| 🔥 **Fire** | Ember Orange | Energy, heat, movement, intensity |
-| 💧 **Water** | Cyan Blue | Flow, waves, fluidity, calm |
-| 🌪️ **Wind** | Sky Blue | Air, clouds, movement, freedom |
-| 🪨 **Earth** | Stone Brown | Rock, structure, stability, nature |
-| ⚡ **Lightning** | Electric Yellow | Electricity, energy, speed, power |
-| 🕳️ **Void** | Violet / Black | Gravity, space, darkness, mystery |
-
-Each element shares the same Elementra foundation while creating a completely different visual environment.
+| 🔥 **Fire** | **The Ember** | Energy · Heat · Intensity |
+| 💧 **Water** | **The Tide** | Flow · Memory · Calm |
+| 🌪️ **Wind** | **The Sky** | Air · Freedom · Movement |
+| 🪨 **Earth** | **The Range** | Structure · Nature · Stability |
+| ⚡ **Lightning** | **The Storm** | Speed · Power · Focus |
+| 🕳️ **Void** | **The Abyss** | Space · Gravity · Mystery |
 
 ---
 
 # Screenshots
 
-## Elementra — Dark Mode
+## Dark Mode
 
 ![Elementra Dark Mode](screenshots/dark.png)
 
-A dark elemental environment showcasing the Elementra visual system.
-
-## Elementra — Light Mode
+## Light Mode
 
 ![Elementra Light Mode](screenshots/light.png)
 
-A clean light environment designed around the elemental system.
 
 ---
 
-# Features
+# Elemental Atmosphere
 
-| Feature | Description |
+The updated version introduces subtle motion to each environment.
+
+| Element | Atmosphere |
 |---|---|
-| 🔥 **Fire Element** | Flowing flames, ember glow, and energetic visual effects |
-| 💧 **Water Element** | Large flowing waves, droplets, and aquatic atmosphere |
-| 🌪️ **Wind Element** | Cloud-like forms, air movement, and atmospheric shapes |
-| 🪨 **Earth Element** | Rock, stone, geological forms, and natural textures |
-| ⚡ **Lightning Element** | Branching lightning, electric glow, and energy effects |
-| 🕳️ **Void Element** | Spinning black-hole inspired orb, vortex, and cosmic atmosphere |
-| 🎨 **Elemental Systems** | Each element has its own visual environment |
-| 🌑 **Dark Mode** | Immersive elemental dark workspace |
-| ☀️ **Light Mode** | Dedicated light-mode environment |
-| 🔗 **Graph View** | Elemental graph styling and visual atmosphere |
-| 📊 **Tables** | Structured and readable data presentation |
-| 💻 **Code Blocks** | Technical and programming surfaces |
-| 🗂️ **Properties** | Clean metadata and property presentation |
-| 🏷️ **Tags** | Compact visual classification |
-| ☑️ **Tasks** | Clear task and project states |
-| 📐 **Canvas** | Visual workspace for diagrams and planning |
-| 📱 **Mobile** | Responsive mobile interface |
+| 🔥 **Fire** | Rising warmth and ember movement |
+| 💧 **Water** | Slow flowing drift |
+| 🌪️ **Wind** | Gusts, haze, and air movement |
+| 🪨 **Earth** | Grounded vertical movement |
+| ⚡ **Lightning** | Electric flicker |
+| 🕳️ **Void** | Cosmic twinkle |
+
+The motion is intentionally restrained so the interface remains practical for everyday work.
 
 ---
 
-# Elementra Is More Than a Colour Theme
+# Elemental Details
 
-The six elements are not six simple colour schemes.
+Elementra extends its visual system across the Obsidian interface.
 
-Each element represents a different visual world.
-
-Changing the element can affect:
-
-- Interface colours
-- Background and panel surfaces
-- Typography
-- Borders and separators
-- Buttons and interactive elements
-- Tables and data presentation
-- Code surfaces
-- Properties
-- Navigation
-- Graph View
-- Elemental artwork
-- Background atmosphere
-- Visual hierarchy
-
-> **Choose the element that matches your mood, workflow, or imagination.**
+| Surface | Treatment |
+|---|---|
+| Notes | Clean reading and writing surfaces |
+| Links | Elemental accent colours |
+| Tags | Compact visual classification |
+| Tables | Structured presentation |
+| Code | Technical colour system |
+| Properties | Clean metadata surfaces |
+| Tasks | Element-specific completion effects |
+| Callouts | Element colour and sigil |
+| Tabs | Sigil, artwork, masking, and atmosphere |
+| Menus | Elemental selected states |
+| Graph View | Elemental nodes and atmosphere |
+| Images | Refined media surfaces |
+| Video | Integrated media styling |
+| PDF | Raised embedded surface |
+| File Embeds | Elemental accent treatment |
+| Canvas | Decoration-aware styling |
 
 ---
 
-# The Six Elemental Worlds
+# Elemental Sigils
 
-| Element | Colour | Character |
-|---|---|---|
-| 🔥 **Fire** | Ember Orange | Energy, heat, movement |
-| 💧 **Water** | Cyan Blue | Flow, waves, calm |
-| 🌪️ **Wind** | Sky Blue | Air, clouds, freedom |
-| 🪨 **Earth** | Stone Brown | Rock, stability, structure |
-| ⚡ **Lightning** | Electric Yellow | Speed, electricity, power |
-| 🕳️ **Void** | Violet / Black | Space, gravity, mystery |
+Each element has its own sigil.
 
-> **Six elements. One Elementra system.**
+The sigils are used selectively across the interface, including:
+
+- Lists
+- Callouts
+- Active tabs
+- Menus
+- Selected suggestions
+
+They are intended to reinforce the identity of the current element without becoming visual clutter.
+
+---
+
+# Elemental Interactions
+
+Small interactions can change depending on the selected element.
+
+| Element | Task Completion |
+|---|---|
+| 🔥 **Fire** | Warm pulse |
+| 💧 **Water** | Ripple |
+| 🌪️ **Wind** | Light movement |
+| 🪨 **Earth** | Grounded settle |
+| ⚡ **Lightning** | Electric flash |
+| 🕳️ **Void** | Cosmic pulse |
+
+---
+
+# Dark & Light
+
+Elementra supports both Dark Mode and Light Mode.
+
+Each mode has dedicated treatment for:
+
+- Surfaces
+- Elemental ink
+- Halos
+- Artwork
+- Graphs
+- Interactive elements
+- Reading areas
+
+> **Same world. Different light.**
 
 ---
 
 # Changing the Element
 
-Elementra uses the **Style Settings** community plugin to control its elemental system.
+Elementra uses the **Style Settings** community plugin to control the elemental system.
 
-The Style Settings plugin is required to switch between the six Elementra elements or customize the theme.
+Style Settings is required if you want to switch between the six elements or customize the theme.
 
 ## Install Style Settings
 
@@ -134,180 +190,191 @@ The Style Settings plugin is required to switch between the six Elementra elemen
 3. Select **Community plugins**.
 4. Click **Browse**.
 5. Search for **Style Settings**.
-6. Select **Style Settings**.
-7. Click **Install**.
-8. Click **Enable**.
+6. Install and enable it.
 
-> **Style Settings is a separate Obsidian community plugin. It is not included with the Elementra theme.**
+Then:
 
-## Select an Element
+![Elementra Selector](screenshots/style-settings.png)
 
-1. Open **Settings**.
-2. Go to **Style Settings**.
-3. Find the **Elementra** section.
-4. Locate **Elementra Element**.
-5. Select your preferred element.
+1. Open **Settings → Style Settings**.
+2. Find **Elementra**.
+3. Locate **Elementra Element**.
+4. Select your preferred element.
 
-Elementra will apply the selected elemental environment.
+Your notes, files, links, and vault structure remain unchanged.
 
-> **Changing the element changes the overall Elementra atmosphere, not just its colour.**
-
-Your notes, files, content, and vault structure remain unchanged.
-
-![Elementra Selector ](screenshots/style-settings.png)
+Only the visual environment changes.
 
 ---
 
-# Built for Creative Thinkers
+# Built for Obsidian
 
-Elementra is suited for:
-
-- 🎓 Students
-- 🔬 Researchers
-- 💻 Developers
-- 🧑‍💻 Programmers
-- ✍️ Writers
-- 🎨 Designers
-- 📚 Knowledge Managers
-- 🧠 Researchers
-- 📋 Project Planners
-- 🗺️ Worldbuilders
-- 🎮 Game Designers
-- 🛠️ Makers
-- 🌌 Creative Thinkers
-- 📝 Note-taking enthusiasts
-- ⚡ Anyone who wants a more immersive Obsidian workspace
-
-Designed for anyone who enjoys **visual environments, elemental themes, creativity, organization, exploration, and immersive knowledge systems**.
-
----
-
-# Design Philosophy
-
-Elementra is built around a simple idea:
-
-> **Your workspace should feel like a world.**
-
-Different parts of the vault become part of an elemental environment.
-
-- **Notes** become knowledge.
-- **Folders** become territories.
-- **Links** become connections.
-- **Tags** become classifications.
-- **Properties** become information.
-- **Tasks** become actions.
-- **Tables** become structured data.
-- **Canvas** becomes a visual space.
-- **Code** becomes the technical layer.
-- **Graph View** becomes the elemental network.
-- **Elements** become different worlds.
-
-> **Structure meets atmosphere.**
+| Feature | Status |
+|---|---|
+| Desktop | Supported |
+| Mobile | Supported |
+| Dark Mode | Supported |
+| Light Mode | Supported |
+| Live Preview | Supported |
+| Reading View | Supported |
+| Properties | Supported |
+| Tables | Supported |
+| Code Blocks | Supported |
+| Dataview | Supported |
+| Tasks | Supported |
+| Canvas | Supported |
+| Excalidraw | Supported |
+| Graph View | Supported |
+| File Embeds | Supported |
+| PDF Embeds | Supported |
+| Images | Supported |
+| Video | Supported |
 
 ---
 
-# Elementra System
+# Accessibility
+
+Elementra is designed to balance atmosphere with readability.
+
+Current accessibility-focused features include:
+
+- Visible `:focus-visible` states
+- Readability controls
+- Artwork opacity controls
+- Clarity filters
+- Elemental contrast handling
+- Reduced-motion support
+- Still Mode
+
+### Still Mode
+
+For a quieter workspace, Elementra can disable its ambient movement.
 
 ```text
-                           ELEMENTRA
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-            FIRE             WATER             WIND
-           Energy             Flow              Air
-              │                │                │
-              └────────────────┼────────────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-            EARTH          LIGHTNING            VOID
-           Structure          Power             Space
-              │                │                │
-              └────────────────┼────────────────┘
-                               │
-                          ELEMENTRA
-                       One visual system
+elementra-still
 ```
 
-Each element has its own identity while remaining part of the same Elementra design system.
-
----
-
-# Elemental Visual Language
-
-Elementra takes visual inspiration from:
-
-- 🔥 Flames and combustion
-- 💧 Waves and flowing water
-- 🌪️ Clouds and atmospheric movement
-- 🪨 Rocks and geological formations
-- ⚡ Branching electrical discharges
-- 🕳️ Black holes and cosmic vortices
-- 🌌 Space and cosmic environments
-- ✨ Energy and natural phenomena
-
-The goal is **immersive elemental atmosphere without sacrificing usability**.
+The visual system remains while the motion rests.
 
 ---
 
 # Typography
 
-- **Body:** IBM Plex Sans
-- **Headings:** IBM Plex Sans
-- **Technical:** IBM Plex Mono
+| Purpose | Font |
+|---|---|
+| Body | IBM Plex Sans |
+| Headings | IBM Plex Sans |
+| Technical | IBM Plex Mono |
 
-Typography is designed to remain **clean, readable, modern, and compatible with the elemental visual system**.
+---
+
+# Design Philosophy
+
+> **Your workspace should feel like a world.**
+
+Elementra treats the vault as an environment rather than a collection of interface components.
+
+```text
+                         ELEMENTRA
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+        FIRE               WATER              WIND
+       Ember               Tide                Sky
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+        EARTH            LIGHTNING             VOID
+       Range               Storm              Abyss
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+                        ELEMENTRA
+                    One visual system
+```
+
+Notes become knowledge.
+
+Folders become territories.
+
+Links become pathways.
+
+Tags become classifications.
+
+Tasks become actions.
+
+The graph becomes a network.
+
+The element becomes the atmosphere around it.
+
+---
+
+# Future
+
+Elementra is designed with room for further expansion.
+
+| Feature | Direction |
+|---|---|
+| **Art Intensity** | Adjustable elemental artwork strength |
+| **Motion Presets** | Still, Calm, Ambient, Lively |
+| **Full Reduced Motion** | One setting for all animation |
+| **High Contrast** | Stronger accessibility colour presets |
+| **Print Mode** | Clean exports without atmospheric effects |
+| **Plugin Compatibility** | Deeper support for popular Obsidian plugins |
+| **Canvas Theming** | Elemental nodes, groups, and connections |
+| **Elemental Explorer** | More element-aware navigation |
+| **Graph Controls** | Additional atmosphere and intensity controls |
+| **Per-Note Elements** | Different elemental worlds within one vault |
+| **Custom Sigils** | User-defined elemental symbols |
+| **New Worlds** | Additional elements beyond the original six |
+
+> **The goal is not simply to add more effects.  
+> The goal is to make the system deeper, more flexible, and more personal.**
+
+---
+
+# Who Is Elementra For?
+
+Elementra is designed for:
+
+- Students
+- Researchers
+- Developers
+- Writers
+- Designers
+- Knowledge managers
+- Project planners
+- Worldbuilders
+- Game designers
+- Makers
+- Creative thinkers
+- Note-taking enthusiasts
+
+Or anyone who wants their Obsidian vault to feel like somewhere.
 
 ---
 
 # Installation
 
-1. Download the Elementra theme.
-2. Copy the theme folder to:
+Download Elementra and place the theme folder inside:
 
 ```text
 YourVault/.obsidian/themes/
 ```
 
-3. Open **Obsidian → Settings → Appearance**.
-4. Select **Elementra**.
-5. Install and enable **Style Settings** if you want to change the Elementra element.
+Then open:
+
+**Obsidian → Settings → Appearance → Themes**
+
+Select **Elementra**.
+
+Install and enable **Style Settings** if you want to change the elemental environment.
 
 ---
 
-# Compatibility
-
-| Feature | Status |
-|---|---|
-| Desktop | ✅ |
-| Mobile | ✅ |
-| Dark Mode | ✅ |
-| Light Mode | ✅ |
-| Live Preview | ✅ |
-| Properties | ✅ |
-| Tables | ✅ |
-| Code Blocks | ✅ |
-| Dataview | ✅ |
-| Tasks | ✅ |
-| Canvas | ✅ |
-| Excalidraw | ✅ |
-| Graph View | ✅ |
-
----
-
-# Screenshots
-
-```text
-screenshots/
-├── dark.png
-└── light.png
-```
-
-The Dark and Light screenshots showcase the Elementra visual system and its elemental environments.
-
----
-
-# Support ☕
+# Support
 
 If you enjoy Elementra and want to support development:
 
@@ -327,16 +394,25 @@ height="60">
 
 # Credits
 
-**Fonts**
+### Fonts
 
 - IBM Plex Sans
 - IBM Plex Mono
 
-**Visual Inspiration**
+### Visual Inspiration
 
-Elementra is inspired by natural and cosmic phenomena including fire, water, wind, earth, lightning, black holes, atmospheric formations, geological structures, electrical discharges, and cosmic environments.
+Elementra draws inspiration from natural and cosmic phenomena:
 
-Made for the Obsidian community.
+- Fire
+- Water
+- Wind
+- Earth
+- Lightning
+- Black holes
+- Space
+- Atmospheric formations
+- Geological structures
+- Energy and natural motion
 
 ---
 
@@ -344,4 +420,16 @@ Made for the Obsidian community.
 
 MIT License
 
-**Elementra — Six elements. One world.**
+---
+
+<div align="center">
+
+## Elementra
+
+**Six elements. Six worlds. One vault.**
+
+*Structure meets atmosphere.*
+
+🔥 · 💧 · 🌪️ · 🪨 · ⚡ · 🕳️
+
+</div>
