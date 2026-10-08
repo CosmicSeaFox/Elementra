@@ -83,7 +83,6 @@ They are not simple colour presets. Each one has its own visual language and atm
 
 ![Elementra Light Mode](screenshots/light.png)
 
-
 ---
 
 # Elemental Atmosphere
@@ -275,24 +274,24 @@ The visual system remains while the motion rests.
 Elementra treats the vault as an environment rather than a collection of interface components.
 
 ```text
+                          ELEMENTRA
+                             │
+           ┌─────────────────┼─────────────────┐
+           │                 │                 │
+         FIRE              WATER              WIND
+        Ember              Tide                Sky
+           │                 │                 │
+           └─────────────────┼─────────────────┘
+                             │
+           ┌─────────────────┼─────────────────┐
+           │                 │                 │
+         EARTH           LIGHTNING             VOID
+        Range              Storm              Abyss
+           │                 │                 │
+           └─────────────────┼─────────────────┘
+                             │
                          ELEMENTRA
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-        FIRE               WATER              WIND
-       Ember               Tide                Sky
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-        EARTH            LIGHTNING             VOID
-       Range               Storm              Abyss
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             │
-                        ELEMENTRA
-                    One visual system
+                     One visual system
 ```
 
 Notes become knowledge.
