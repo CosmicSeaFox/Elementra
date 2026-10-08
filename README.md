@@ -28,7 +28,7 @@ Each element has its own colours, artwork, atmosphere, motion, and visual identi
 
 # Preview
 
-![Elementra Dark Mode](screenshots/dark.png)
+![Elementra](screenshot.png)
 
 ---
 
@@ -39,7 +39,7 @@ The latest Elementra update expands the original theme into a more complete elem
 | Update | Description |
 |---|---|
 | **Living Atmosphere** | Subtle drift, rise, breathe, flicker, gust, and twinkle effects |
-| **Elemental Sigils** | Each element has its own visual symbol |
+| **Elemental Sigils** | Each element now has its own visual symbol |
 | **Elemental Motion** | Tabs and task completion react differently to each element |
 | **Design Tokens** | New controls for ink, halo, core, ground, masks, and artwork |
 | **Enhanced Tabs** | Elemental sigils, artwork, masking, and motion |
@@ -82,6 +82,7 @@ They are not simple colour presets. Each one has its own visual language and atm
 ## Light Mode
 
 ![Elementra Light Mode](screenshots/light.png)
+
 
 ---
 
@@ -139,7 +140,7 @@ The sigils are used selectively across the interface, including:
 - Menus
 - Selected suggestions
 
-They reinforce the identity of the current element without becoming visual clutter.
+They are intended to reinforce the identity of the current element without becoming visual clutter.
 
 ---
 
@@ -274,24 +275,24 @@ The visual system remains while the motion rests.
 Elementra treats the vault as an environment rather than a collection of interface components.
 
 ```text
-                          ELEMENTRA
-                             │
-           ┌─────────────────┼─────────────────┐
-           │                 │                 │
-         FIRE              WATER              WIND
-        Ember              Tide                Sky
-           │                 │                 │
-           └─────────────────┼─────────────────┘
-                             │
-           ┌─────────────────┼─────────────────┐
-           │                 │                 │
-         EARTH           LIGHTNING             VOID
-        Range              Storm              Abyss
-           │                 │                 │
-           └─────────────────┼─────────────────┘
-                             │
                          ELEMENTRA
-                     One visual system
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+        FIRE               WATER              WIND
+       Ember               Tide                Sky
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+        EARTH            LIGHTNING             VOID
+       Range               Storm              Abyss
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+                        ELEMENTRA
+                    One visual system
 ```
 
 Notes become knowledge.
